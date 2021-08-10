@@ -1,11 +1,16 @@
 _repo: Trial-of-the-Major-War-Criminals-Before-the-International-Military-Tribunal-Vol-12-Nuremburg-__66028
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 66028-h/images/cover.jpg
 creator:
   author:
     agent_name: Tribunal, International Military
     gutenberg_agent_id: '53605'
     url: http://www.gutenberg.org/2009/agents/53605
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66028#Trial-of-the-Major-War-Criminals-Before-the-International-Military-Tribunal-Vol-12-Nuremburg-_
 gutenberg_issued: '2021-08-09'
 gutenberg_type: Text
 identifiers:
